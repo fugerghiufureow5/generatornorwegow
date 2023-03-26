@@ -366,4 +366,4 @@ window.slotMachine = function(container, reels, callback, options) {
 
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = SlotMachine;
-}
+} 
